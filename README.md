@@ -1,4 +1,4 @@
-# BT_Labs_Gait_Experiment
+#UCalgary BT Labs Gait Experiment
 Code and scripts used to conduct gait experiment to detect soft biometric cues
 
 Repository is structured as follows:
