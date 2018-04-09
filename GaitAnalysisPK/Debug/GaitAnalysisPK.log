@@ -1,7 +1,0 @@
-﻿  GaitAnalysisPK.cpp
-c:\patrick\gaitanalysispk\gaitanalysispk\gaitanalysispk.cpp(461): warning C4018: '<': signed/unsigned mismatch
-c:\patrick\gaitanalysispk\gaitanalysispk\gaitanalysispk.cpp(605): warning C4018: '<': signed/unsigned mismatch
-c:\patrick\gaitanalysispk\gaitanalysispk\gaitanalysispk.cpp(809): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
-c:\patrick\gaitanalysispk\gaitanalysispk\gaitanalysispk.cpp(743): warning C4101: 'angle_prev': unreferenced local variable
-  GaitAnalysisPK.vcxproj -> C:\Patrick\GaitAnalysisPK\Debug\GaitAnalysisPK.exe
-  GaitAnalysisPK.vcxproj -> C:\Patrick\GaitAnalysisPK\Debug\GaitAnalysisPK.pdb (Partial PDB)
