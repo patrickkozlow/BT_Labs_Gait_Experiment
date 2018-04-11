@@ -78,12 +78,12 @@ in conjunction with Matlab to find various features to indentify an individual's
 FILE: Height (Currently EXPERIMENTAL): This file details the height parameters related to an individuals geometric coordinates. 
 The collumns are labeled as so:
 1-3 == Individual's Height in meters, centimeters, feet.
-4-6 == Individual's M2???
+4-6 == Individual's Height in meters, centimeters, feet using different point of reference.
 8-9 == Individual's arm and leg length in centimeters
 
 FILE: JointAngles: This file outputs some calculated angles for selected joints.
 Angles are calculated per frame and in DEGREES. The calculations are output for the following joints:
-Left/Right Knees, Left/Right Ankles, Left/Right Ankle Delta???
+Left/Right Knees, Left/Right Ankles, Left/Right Ankle Delta (difference between previous and current frame).
 
 FILE: SmoothedJointAngles: This is a continuation of the previous file, where the angles are smoothed using a moving average filter.
 The added parameters are the average angles for the ankles as well as the repective phases that the ankle is in. Where:
